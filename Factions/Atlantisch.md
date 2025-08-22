@@ -1,3 +1,4 @@
 ---
-type: positiv
+aliases:
+  - Atlantische Linie
 ---

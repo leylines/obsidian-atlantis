@@ -1,11 +1,13 @@
 ---
 type: event
-title: "Jahr 0"
-date: "0"
-faction: ["Atlantisch","Babylonisch"]
-tags: ["Zyklus"]
-summary: "Beginn des 1000-Jahre-Zyklus: Geburt Jesu, Entstehung der christlichen Gnosis, Teilung der Strömungen."
+year: 0001-01-01
+faction:
+  - Atlantisch
+  - Babylonisch
+tags:
+  - Zyklus
 ---
+Beginn des 1000-Jahre-Zyklus: Geburt Jesu, Entstehung der christlichen Gnosis, Teilung der Strömungen.
 ## Einordnung
 - Fraktion: Atlantisch & Babylonisch
 - Zeitpunkt: Jahr 0
@@ -20,4 +22,4 @@ summary: "Beginn des 1000-Jahre-Zyklus: Geburt Jesu, Entstehung der christlichen
 ## Verbindungen
 - Personen: [[Jesus]], [[Maria Magdalena]]
 - Orte: [[Südfrankreich]], [[Ravenna]]
-- Symbole: [[Gnosis]], [[Atlantische Linie]]
+- Symbole: [[Gnosis]], [[Atlantisch|Atlantische Linie]]

@@ -1,8 +1,9 @@
 ---
 type: person
-name: "Maria Magdalena"
-era: "1. Jh."
-tags: ["Gnosis","Weibliches Prinzip"]
+name: Maria Magdalena
+year: "100"
+tags:
+  - Gnosis
 ---
 ## Rolle im Projekt
 Maria Magdalena steht für das weibliche gnostische Prinzip. Sie ist Teil der Überfahrt nach Südfrankreich und repräsentiert die atlantische Linie der Weisheit.
@@ -15,4 +16,4 @@ Maria Magdalena steht für das weibliche gnostische Prinzip. Sie ist Teil der Ü
 ## Verbindungen
 - Ereignisse: [[Jahr 0]]
 - Orte: [[Südfrankreich]]
-- Symbole: [[Sophia]], [[Weibliches Prinzip]]
+- Symbole: [[Sophia]], [[Matriarchat|Weibliches Prinzip]]

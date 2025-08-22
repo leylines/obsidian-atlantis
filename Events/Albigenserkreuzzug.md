@@ -1,7 +1,7 @@
 ---
-type: Ereignis
-fraktion: Babylonisch
-jahr: 1209-1229
+type: event
+faction: Babylonisch
+year: 1209-1229
 location: Frankreich
 tags:
   - Kreuzzug
@@ -22,3 +22,4 @@ gegen die gnostisch geprägten Katharer im Languedoc.
 - [[Babylonisch]]
 - [[Atlantisch]]
 - [[Montségur]]
+- [[Jahr 1000]]

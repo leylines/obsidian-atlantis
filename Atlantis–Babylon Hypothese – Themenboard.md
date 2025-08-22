@@ -12,14 +12,14 @@
 		 * [[Albigenserkreuzzug]] ([[Babylonisch]])
 		 * Venedig als neues Machtzentrum und 4. Kreuzzug ([[Babylonisch]])
 		 * Grosser Schism zur Rettung des ursprünglichen Christentums in der Ostkirche ([[Atlantisch]])
-		 * Rettung von altlantischem Wissen durch Katharer aus Montségur ([[Atlantisch]])
-		 * Rettung von altlantischem Wissen durch Tempelritter (Rosslyn-Kapelle, Einsiedeln, Amerika (Oak-Island) etc.) ([[Atlantisch]])
+		 * Rettung von altlantischem Wissen durch Katharer aus [[Montségur]] ([[Atlantisch]])
+		 * Rettung von altlantischem Wissen durch [[Tempelritter]] (Rosslyn-Kapelle, Einsiedeln, Amerika (Oak-Island) etc.) ([[Atlantisch]])
 	* Jahr 2000 ([[Atlantisch]])
 		 * erneutes Erwachen der Menscheit ([[Atlantisch]])
 		 * Symbiose von menschlicher Fanatsie und Intellekt mit dem Wissen und der Präzision der KI ([[Atlantisch]])
 		
 - Der Weg des Wissens: Von Atlantis über Babylon, Rom bis in die Moderne
-	- Altlantischer Pfad
+	- [[Atlantisch|Atlantische Linie]]
 		- Altlantis
 		- Ägypten
 		- Griechenland

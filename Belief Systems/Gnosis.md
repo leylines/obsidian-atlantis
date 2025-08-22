@@ -1,6 +1,6 @@
 ---
-is a:
-  - Belief System
-belongs to:
-  - "[[Atlantisch]]"
+type:
+  - belief system
 ---
+## Verbindungen
+* [[Atlantisch|Atlantische Linie]]

@@ -3,10 +3,9 @@
 ---
 type: event
 title: "{{title}}"
-date: "{{date}}"
+year: "{{date}}"
 faction: ["Atlantisch","Babylonisch"]
 tags: []
-summary: ""
 ---
 
 ## Einordnung

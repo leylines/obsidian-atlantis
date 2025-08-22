@@ -13,5 +13,5 @@ Chartres gilt als Schlüsselkathedrale, in deren Krypta die Gralstafeln verwahrt
 
 ## Verbindungen
 - Ereignisse: [[Jahr 1000]]
-- Personen: [[Templer]], [[Katharer]]
+- Personen: [[Tempelritter]], [[Katharer]]
 - Symbole: [[Gralstafeln]], [[Schwarze Madonna]]
