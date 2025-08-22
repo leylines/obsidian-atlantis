@@ -2,7 +2,7 @@
 ## 1. Kosmische Struktur
 - Das kosmische Schachbrett: Dualität, Kräfteverteilung, Synchronisation
 - Die Dualität im 1000-Jahre-Zyklus
-	- Jahr 0 ([[Atlantisch]])
+	- [[Jahr 0]] ([[Atlantisch]])
 		- Geburt von Jesus als christliche [[Gnosis]] ([[Atlantisch]])
 		- Teilung des römischen Reiches und Rückzug nach Ravenna ([[Babylonisch]])
 		- Überfahrt der 3 Marys und evtl. Jesus nach Südfrankreich ([[Atlantisch]])

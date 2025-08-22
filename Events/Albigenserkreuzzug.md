@@ -2,10 +2,12 @@
 type: Ereignis
 fraktion: Babylonisch
 jahr: 1209-1229
-ort: Südfrankreich
-tags: [Kreuzzug, Katharer, Babylonisch]
+ort: Frankreich
+tags:
+  - Kreuzzug
+  - Katharer
+  - Babylonisch
 ---
-
 # Albigenserkreuzzug
 
 Der Albigenserkreuzzug (1209–1229) war ein zentraler Schlag der babylonischen Fraktion
