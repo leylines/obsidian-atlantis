@@ -10,8 +10,8 @@ related:
   - "[[Albigenserkreuzzug]]"
   - "[[Gnosis]]"
   - "[[Matriarchat]]"
-tags:
-  - Atlantisch
+entry-factions:
+  - "[[Atlantisch]]"
 ---
 ## Bedeutung
 

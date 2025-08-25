@@ -12,6 +12,8 @@ related:
   - "[[Eleusinische Mysterien]]"
 tags:
   - Atlantisch
+entry-previous: "[[Gaia]]"
+entry-parents: "[[Gaia]]"
 ---
 ## Bedeutung
 

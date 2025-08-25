@@ -7,6 +7,7 @@ places:
 tags:
   - Verdichtung
   - Atlantisch
+entry-previous: "[[Maria Magdalena]]"
 ---
 ## Bedeutung
 

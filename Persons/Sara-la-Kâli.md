@@ -13,6 +13,7 @@ related:
   - "[[Romanies]]"
 tags:
   - Atlantisch
+entry-previous: "[[Sofía-Prinzip|Sophia]]"
 ---
 ## Bedeutung
 

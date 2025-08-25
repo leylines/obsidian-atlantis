@@ -11,6 +11,8 @@ related:
   - "[[Jesus von Nazareth]]"
 tags:
   - Atlantisch
+entry-previous: "[[Sara-la-Kâli]]"
+entry-parents: "[[Gaia]]"
 ---
 ---
 ## Bedeutung
@@ -28,4 +30,10 @@ Maria Magdalena steht für das weibliche gnostische Prinzip. Sie ist Teil der Ü
 ## Verbindungen
 
 - Personen: [[Jesus von Nazareth]]
+
+---
+
+```bearings
+```
+
 
